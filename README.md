@@ -1,2 +1,4 @@
-# Jenkins_Pipeline_Project
-This is a Jenkins Pipeline project repository
+# maven-project
+
+This is a maven Pipeline project. Navigate to the ReadME.pdf file to view important information about the project
+<br
